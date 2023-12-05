@@ -1,8 +1,6 @@
 # Women-Entrepreneurship-Labor-Force-Analysis
 
 
-
-Project Description:
 The "Women Entrepreneurship Labor Force Analysis" project is a detailed examination of the relationship between women's entrepreneurship and labor force dynamics, considering various socio-economic factors. The features under investigation include Country, Level of development, European Union Membership, Currency, Women Entrepreneurship Index, Entrepreneurship Index, Inflation rate, and Female Labor Force Participation Rate.
 
 This study aims to shed light on the intricate interplay between economic development, entrepreneurial opportunities, and the active participation of women in the labor force. Through a comprehensive analysis of these features, the project seeks to identify patterns, correlations, and potential influencing factors on women's entrepreneurship and labor force participation.
